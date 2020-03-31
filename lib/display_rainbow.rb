@@ -9,4 +9,4 @@ V = 'violet'
   puts "#{color}
 end 
 
-display_rainbow()
+display_rainbow('R')
