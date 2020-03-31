@@ -6,7 +6,5 @@ G = 'green'
 B = 'blue'
 I = 'indigo'
 V = 'violet'
-  puts "#{color}
-end 
-
-display_rainbow('R')
+  puts
+end
