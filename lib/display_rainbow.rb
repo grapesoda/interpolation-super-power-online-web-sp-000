@@ -8,3 +8,6 @@ B = 'blue'
 I = 'indigo'
 V = 'violet'
   puts display_rainbow
+end 
+
+display_rainbow
