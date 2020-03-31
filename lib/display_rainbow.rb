@@ -1,4 +1,4 @@
-def display_rainbow
+def display_rainbow(color)
 R = 'red'
 O = 'orange'
 Y = 'yellow'
