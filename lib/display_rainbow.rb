@@ -6,7 +6,7 @@ G = 'green'
 B = 'blue'
 I = 'indigo'
 V = 'violet'
-  puts "R, O, Y, G, B, I, V"
+  puts 
 end
 
 display_rainbow
