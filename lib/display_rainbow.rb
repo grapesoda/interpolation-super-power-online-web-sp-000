@@ -9,4 +9,4 @@ V = "violet"
   puts "#{R, O, Y, G, B, I, V}"
 end
 
-display_rainbow
+display_rainbow(['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet'])
