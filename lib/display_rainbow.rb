@@ -1,5 +1,4 @@
 def display_rainbow(['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet'])
-  puts display_rainbow
 R = 'red'
 O = 'orange'
 Y = 'yellow'
